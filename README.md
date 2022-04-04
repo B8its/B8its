@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning advanced python, setting up c++
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me B8its.code@gmail.com
+- 99% chance not to accept, or even read the email. 
 
 <!---
 B8its/B8its is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
